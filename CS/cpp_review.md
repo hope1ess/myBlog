@@ -1,0 +1,1 @@
+char不支持Unicode编码，使用中文用*char16_t*或*char32_t*都支持Unicode编码
