@@ -24,3 +24,5 @@ emacs中函数返回最后的表达式。
   (insert "yay!"))
 ```
 如此便能在M-x中调用yay命令
+
+# 一些Emacs中的API
