@@ -1,4 +1,9 @@
 <script type="text/javascript" src="../JS/MathJax.js"></script>
+# 叉乘
+```markdown
+$$\times$$
+```
+$$\times$$
 # 上下标
 ```markdown
 $$x_1$$
